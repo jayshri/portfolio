@@ -98,20 +98,10 @@ export default function Home() {
 
           <div className="space-y-3 text-sm leading-relaxed text-gray-700 sm:text-base">
             <p>
-              I am an experienced Software Engineer with a strong background in
-              building scalable, user-facing applications and over 10 years of
-              industry experience, including at Workday. I have worked across
-              the stack, with deep expertise in frontend development using
-              React, JavaScript, TypeScript, and modern frameworks, along with
-              solid experience collaborating on backend systems in Java-based
-              environments.
+              Experienced Software Engineer with over 10 years of industry experience, including work at Workday, building scalable, user-facing applications. Strong background in full-stack development with deep expertise in frontend technologies such as React, Next.js, JavaScript, TypeScript, and Tailwind CSS, along with experience collaborating on backend systems using Java and REST APIs.
             </p>
-
-            <p>
-              After taking a career break to care for my young children, I am
-              actively re-entering the workforce with a renewed focus on
-              building high-quality, well-structured software and contributing
-              to impactful products as part of a collaborative engineering team.
+            <p>Successfully contributed to customer-facing features used by thousands of enterprise users. 
+              After a career break to care for my young children, I am actively re-entering the workforce and seeking software engineering roles where I can contribute to high-impact, production-grade products in a collaborative environment.
             </p>
           </div>
         </section>
