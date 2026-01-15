@@ -26,7 +26,7 @@ export default function Home() {
 
             <a
               className="w-full rounded-md border px-4 py-2.5 text-center text-sm font-medium sm:w-auto"
-              href="https://github.com/jayshri/job-application-tracker"
+              href="https://github.com/jayshri"
               target="_blank"
               rel="noreferrer"
             >
